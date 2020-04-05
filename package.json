@@ -1,0 +1,10 @@
+{
+  "name": "jest-preset-coffeescript-override-issue-reproduce",
+  "version": "0.0.1",
+  "description": "Repo to reproduce one 'jest-preset-coffeescript' issue.",
+  "main": "foo.coffee",
+  "scripts": {},
+  "keywords": [],
+  "author": "JacekK",
+  "license": "MIT"
+}
